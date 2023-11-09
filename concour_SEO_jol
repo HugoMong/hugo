@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>La Pizzeria Délicieuse</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="La meilleure pizzeria en ville">
+    <meta name="keywords" content="pizza, pizzeria, livraison, restaurant">
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Lien vers une feuille de style CSS (facultatif) -->
+</head>
+<body>
+    <header>
+        <h1>La Pizzeria Délicieuse</h1>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#commander">Commander en ligne</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="menu">
+        <h2>Notre Menu</h2>
+        <p>Découvrez notre délicieuse sélection de pizzas faites maison :</p>
+        <ul>
+            <li>Pizza Margherita</li>
+            <li>Pizza Pepperoni</li>
+            <li>Pizza Végétarienne</li>
+            <li>Pizza Calzone</li>
+            <!-- Ajoutez d'autres pizzas -->
+        </ul>
+    </section>
+
+    <section id="commander">
+        <h2>Commander en ligne</h2>
+        <p>Commandez en ligne et dégustez nos pizzas chez vous !</p>
+        <a href="lien_vers_le_système_de_commande">Commandez maintenant</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Vous avez des questions ou des commentaires ? Contactez-nous :</p>
+        <address>
+            <p>Adresse : 123 Rue de la Pizza, Ville Gourmande</p>
+            <p>Téléphone : +33 1 2345 6789</p>
+            <p>Email : info@lapizzeriadelicieuse.com</p>
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 La Pizzeria Délicieuse. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
